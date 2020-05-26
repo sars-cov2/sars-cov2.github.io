@@ -8,4 +8,4 @@ end
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
-gem 'activesupport', '~> 6.0', '>= 6.0.2.2'
+gem 'activesupport', '~> 6.0'
